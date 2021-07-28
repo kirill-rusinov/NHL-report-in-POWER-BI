@@ -1,3 +1,4 @@
+<li>
 Отчет сделан на основе данных из этой базы https://github.com/kirill-rusinov/NHL-PostgreSQL-DataBase-.git  
 Файл NHL report можно открыть с помощью POWER BI Desktop  
 Прилагаются фотографии отчета в pdf  
